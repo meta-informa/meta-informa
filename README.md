@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @meta-informa
+- 👀 I’m interested in Meta Information of Repositories hosted on GitHub
+- 💞️ I’m looking to collaborate on https://github.com/thoth-station
